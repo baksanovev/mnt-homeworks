@@ -149,6 +149,13 @@ WHEN avg() OF query(A, 5m, now) IS BELOW 2147483648
 
 В JSON содержатся конфигурации четырёх панелей, PromQL-запросы и параметры отображения данных.
 
+**Экспортированная конфигурация:**
+
+[Скачать dashboard.json](dashboard.json)
+
+<details>
+<summary>Показать полный JSON Dashboard</summary>
+
 ---
 
 ## Вывод
